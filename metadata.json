@@ -1,0 +1,6 @@
+
+{
+  "name": "River Chart Stock Analysis",
+  "description": "A sophisticated stock value analysis system using the River Chart (Value Bands) model based on 200-day SMA, featuring real-time data fetching and AI-powered financial insights.",
+  "requestFramePermissions": []
+}
